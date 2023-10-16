@@ -9,9 +9,9 @@ class BusReservationSystem:
 
         # Login Credentials
         self.credentials = {
-            "user1": "password1",
-            "user2": "password2",
-            "user3": "password3"
+            "Mukund": "password1",
+            "Riya": "password2",
+            "Viraj": "password3"
         }
 
         self.logged_in = False
